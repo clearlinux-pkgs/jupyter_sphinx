@@ -4,7 +4,7 @@
 #
 Name     : jupyter_sphinx
 Version  : 0.3.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/19/b0/46405f8cea06cc60a851db29486c10244691d014e4ff21a887a17fbed574/jupyter_sphinx-0.3.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/19/b0/46405f8cea06cc60a851db29486c10244691d014e4ff21a887a17fbed574/jupyter_sphinx-0.3.2.tar.gz
 Summary  : Jupyter Sphinx Extensions
